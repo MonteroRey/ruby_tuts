@@ -21,3 +21,7 @@
 * https://blog.skylight.io/the-lifecycle-of-a-request/
 * https://www.blazemeter.com/blog/how-use-postman-manage-and-execute-your-apis
 * https://github.com/mercyoseni/dms-in-rails
+* https://towardsdev.com/set-up-rails-7-with-graphql-apollo-client-and-react-72f63a9a3b54
+* https://dev.to/lisahjung/beginner-s-guide-to-creating-an-a
+* https://www.baeldung.com/curl-rest
+* https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
