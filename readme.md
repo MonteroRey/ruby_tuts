@@ -8,3 +8,16 @@
 * https://en.wikipedia.org/wiki/Single-page_application
 * http://stevelorek.com/service-objects.html
 * https://web.archive.org/web/20150208095607/http://stevelorek.com/service-objects.html
+* https://stackoverflow.com/questions/14044681/fat-models-and-skinny-controllers-sounds-like-creating-god-models
+* https://blog.arkency.com/oop-refactoring-from-a-god-class-to-smaller-objects/
+* https://medium.com/@miguelfgpereira00/a-ruby-rookies-tips-and-tricks-for-the-newcomers-part-1-37468327b73a
+* https://medium.com/tarkalabs-til/function-composition-in-ruby-69e37cdc9b0
+* https://medium.com/boosterstage/refactoring-code-smells-with-service-objects-88775a7cbaca
+* https://medium.com/@peytonkellogg/http-get-requests-with-ruby-721cbb58c0c7
+* https://blog.skylight.io/the-lifecycle-of-a-response/
+* https://medium.com/swlh/the-story-of-an-http-request-on-rails-7655852871c
+* https://www.google.com/search?q=http+request+and+response+example+in+rIALS+rendered+in+text+template&ei=0pF0YvrTG46AoASi8pWAAQ&ved=0ahUKEwj6hMaw88n3AhUOAIgKHSJ5BRAQ4dUDCA4&uact=5&oq=http+request+and+response+example+in+rIALS+rendered+in+text+template&gs_lcp=Cgdnd3Mtd2l6EAM6BwgAEEcQsAM6BwghEAoQoAE6BAghEBU6BAghEApKBAhBGABKBAhGGABQ2gJY_bUBYP-4AWgIcAF4AIABhgGIAaAakgEFMTIuMjCYAQCgAQHIAQjAAQE&sclient=gws-wiz
+* https://medium.com/boosterstage/refactoring-code-smells-with-service-objects-88775a7cbaca
+* https://blog.skylight.io/the-lifecycle-of-a-request/
+* https://www.blazemeter.com/blog/how-use-postman-manage-and-execute-your-apis
+* https://github.com/mercyoseni/dms-in-rails
