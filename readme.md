@@ -29,3 +29,19 @@
 * https://www.justinweiss.com/articles/with-so-much-rails-to-learn/
 * https://discuss.rubyonrails.org/t/is-there-a-roadmap-or-feature-list-of-some-kind-for-rails-7/78740/3
 * https://github.com/driggl/rails-api-complete-guide
+* https://blog.appsignal.com/2020/06/17/using-service-objects-in-ruby-on-rails.html
+https://www.baeldung.com/curl-rest
+https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+https://www.stackhawk.com/blog/rails-cors-guide/
+https://dev.to/lisahjung/beginner-s-guide-to-creating-an-api-from-scratch-using-rails-2eie
+https://www.blazemeter.com/blog/how-use-postman-manage-and-execute-your-apis
+https://github.com/mercyoseni/dms-in-rails
+https://stackoverflow.com/questions/4959799/uploading-downloading-files-ruby-on-rails-system
+https://medium.com/boosterstage/refactoring-code-smells-with-service-objects-88775a7cbaca
+https://blog.arkency.com/oop-refactoring-from-a-god-class-to-smaller-objects/
+https://stackoverflow.com/questions/14044681/fat-models-and-skinny-controllers-sounds-like-creating-god-models
+https://web.archive.org/web/20150208095607/http://stevelorek.com/service-objects.html
+https://www.justinweiss.com/articles/when-is-an-activerecord-model-too-fat/
+https://riptutorial.com/ruby-on-rails/example/9609/fat-model--skinny-controller
+https://medium.com/@jaysadiq/refactoring-a-fat-rails-model-dc3cfda64d22
+https://codeclimate.com/blog/7-ways-to-decompose-fat-activerecord-models/
