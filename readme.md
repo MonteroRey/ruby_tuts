@@ -25,3 +25,7 @@
 * https://dev.to/lisahjung/beginner-s-guide-to-creating-an-a
 * https://www.baeldung.com/curl-rest
 * https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS
+* https://www.stackhawk.com/blog/rails-cors-guide/
+* https://www.justinweiss.com/articles/with-so-much-rails-to-learn/
+* https://discuss.rubyonrails.org/t/is-there-a-roadmap-or-feature-list-of-some-kind-for-rails-7/78740/3
+* https://github.com/driggl/rails-api-complete-guide
