@@ -1,0 +1,1 @@
+https://www.justinweiss.com/articles/when-is-an-activerecord-model-too-fat/
